@@ -1,4 +1,36 @@
 
+//////// FPP //////////// 
+
+works for 1 hop 
+and that could be a bad hop 
+e.i. 
+     doesn't go through a drifter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  > a collection of nodes produced by a clustering algorithm (a.k.a. label propagation) 
    the following community contains around  284  nodes, including the [target protein| SGS1 ] 
